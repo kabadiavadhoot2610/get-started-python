@@ -20,7 +20,7 @@ git clone https://github.com/IBM-Cloud/get-started-python
 cd get-started-python
   ```
 
-  Peruse the files in the *get-started-python* directory to familiarize yourself with the contents.
+  Peruse the files in the *get-started-python* directory to familiarize yourself with the contents.  ## Dummy comment
 
 ## 2. Run the app locally
 
