@@ -20,8 +20,9 @@ git clone https://github.com/IBM-Cloud/get-started-python
 cd get-started-python
   ```
 
-  Peruse the files in the *get-started-python* directory to familiarize yourself with the contents.  ## Dummy comment
-
+  Peruse the files in the *get-started-python* directory to familiarize yourself with the contents.  
+## Dummy comment
+## Another comment
 ## 2. Run the app locally
 
 Install the dependencies listed in the [requirements.txt](https://pip.readthedocs.io/en/stable/user_guide/#requirements-files) file to be able to run the app locally.
